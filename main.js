@@ -7,7 +7,7 @@ while(nomeUsuário == "") {
 }
 
 if (nomeUsuário == null) {
-    elemento.textContent = "Seja Bem Vindo";
+    elemento.textContent = "seja bem-vindo";
 } else{
     elemento.textContent = nomeUsuário;
 }
